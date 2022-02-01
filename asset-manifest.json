@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bitcoin-app/static/css/main.9a07919b.css",
-    "main.js": "/bitcoin-app/static/js/main.7e979b58.js",
+    "main.css": "/bitcoin-app/static/css/main.0c5ae86b.css",
+    "main.js": "/bitcoin-app/static/js/main.8ee43157.js",
     "static/js/787.f1ecabba.chunk.js": "/bitcoin-app/static/js/787.f1ecabba.chunk.js",
     "static/media/fa-solid-900.ttf": "/bitcoin-app/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/fa-brands-400.ttf": "/bitcoin-app/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
@@ -11,12 +11,12 @@
     "static/media/macan-regular.woff2": "/bitcoin-app/static/media/macan-regular.60c84fbe6363b59af251.woff2",
     "static/media/fa-regular-400.ttf": "/bitcoin-app/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
     "index.html": "/bitcoin-app/index.html",
-    "main.9a07919b.css.map": "/bitcoin-app/static/css/main.9a07919b.css.map",
-    "main.7e979b58.js.map": "/bitcoin-app/static/js/main.7e979b58.js.map",
+    "main.0c5ae86b.css.map": "/bitcoin-app/static/css/main.0c5ae86b.css.map",
+    "main.8ee43157.js.map": "/bitcoin-app/static/js/main.8ee43157.js.map",
     "787.f1ecabba.chunk.js.map": "/bitcoin-app/static/js/787.f1ecabba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a07919b.css",
-    "static/js/main.7e979b58.js"
+    "static/css/main.0c5ae86b.css",
+    "static/js/main.8ee43157.js"
   ]
 }
